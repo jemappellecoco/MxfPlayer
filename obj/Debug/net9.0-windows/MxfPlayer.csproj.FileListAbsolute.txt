@@ -868,3 +868,4 @@ C:\Users\coco\MXFplayer\MxfPlayer\bin\Debug\net9.0-windows\NAudio.Midi.dll
 C:\Users\coco\MXFplayer\MxfPlayer\bin\Debug\net9.0-windows\NAudio.Wasapi.dll
 C:\Users\coco\MXFplayer\MxfPlayer\bin\Debug\net9.0-windows\NAudio.WinForms.dll
 C:\Users\coco\MXFplayer\MxfPlayer\bin\Debug\net9.0-windows\NAudio.WinMM.dll
+C:\Users\coco\MXFplayer\MxfPlayer\obj\Debug\net9.0-windows\MxfPlayer.sourcelink.json

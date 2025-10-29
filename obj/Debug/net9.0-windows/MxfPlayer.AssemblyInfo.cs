@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MxfPlayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3cdc8149ffa2883b75fa2c1163dc93904bbc0623")]
 [assembly: System.Reflection.AssemblyProductAttribute("MxfPlayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MxfPlayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
